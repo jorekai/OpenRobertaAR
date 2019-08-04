@@ -2050,4 +2050,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
-  playerPath: C:/Users/Win10Pro/Desktop/HelloAR.apk
+  playerPath: N:/UNI/Dropbox/FH-Frankfurt_Master/3_Semester/OpenRobertaLab/OpenRobertaAR/RobertaAR/HelloAR.apk
